@@ -1,4 +1,4 @@
-# Authentication_for_vechiles
+# Authentication_for_vehicles
 This is the authentication algorithm which can be implemented for vehicles. When implemented in vehicles provide seamless experience by using face recognitation as first factor authentication and next it sends the qr code to the recognized person email ID. Then user need to use this QR code in second stage of authentication.
 <br>
 When unknown person tries to access the vehicle it takes the image of the person and then sends it to the owner email ID as ALERT.
